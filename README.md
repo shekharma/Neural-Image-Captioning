@@ -1,6 +1,3 @@
-Below is a sample README file for the described project:
-
----
 
 # Image Captioning with Seq-to-Seq Model
 
