@@ -21,8 +21,8 @@ The model architecture involves:
 3. **Evaluation**: Evaluate the performance of the trained model using metrics such as BLEU score. This provides a quantitative measure of how well the generated captions match the reference captions.
 
 ## Dependencies
-- Python 3.x
-- TensorFlow (or any other deep learning framework)
+- Python 3.11
+- Pytorch
 - NLTK (Natural Language Toolkit) for text processing and evaluation metrics
 - Pre-trained ResNet model (can be obtained from torchvision or other sources)
 - Flickr8K dataset (or any other dataset suitable for image captioning)
